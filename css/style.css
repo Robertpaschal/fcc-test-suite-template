@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    display: block;
+  }
+  a{
+    color: green;
+  }
+  .heading{
+    background-color: #686868;
+    text-align: center;
+  }
+  main{
+    font-family: sans-serif;
+  }
